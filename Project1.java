@@ -14,9 +14,9 @@
  * 4) Write this class, Project1. The results() method will perform the tasks
  *    laid out in the project formulation.
  * 
- * NAME: Shiv Dhanji
- * UNIVERSITY ID: 2109288
- * DEPARTMENT: Mathematics
+ * NAME:
+ * UNIVERSITY ID:
+ * DEPARTMENT:
  */
 
 import java.util.*;
