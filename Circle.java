@@ -12,9 +12,9 @@
  * The function of the methods and instance variables are outlined in the
  * comments directly above them.
  * 
- * NAME: Shiv Dhanji
- * UNIVERSITY ID: 2109288
- * DEPARTMENT: Mathematics
+ * NAME:
+ * UNIVERSITY ID:
+ * DEPARTMENT:
  */
 
 public class Circle {
